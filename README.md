@@ -1,4 +1,4 @@
-# mood_tracker
+# mood_tracker flutter web app
 
 Using Flutter and Firebase
 
