@@ -5,10 +5,10 @@ import 'package:mood_tracker/home.dart';
 void main() async {
   await Firebase.initializeApp(
       options: FirebaseOptions(
-          apiKey: "AIzaSyBlH3_crlWOEfgoDIKIgfa1o9ztZUKWFHU",
-          appId: "1:136805665111:web:ee25e18fd0abc645145612",
-          messagingSenderId: "136805665111",
-          projectId: "mood-tracker-5663d"));
+          apiKey: "yours",
+          appId: "yours",
+          messagingSenderId: "yours",
+          projectId: "yours"));
   runApp(const MyApp());
 }
 
